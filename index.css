@@ -1,0 +1,14 @@
+.b{
+    border: solid red 2px;
+}
+.mainf{
+   display: flex;
+    align-content: space-between;
+    text-align: justify;
+    
+}
+
+.section01{
+    width: autovc;
+}
+
